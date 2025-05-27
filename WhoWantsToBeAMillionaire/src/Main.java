@@ -1,4 +1,4 @@
-public class Main {
+public class WhoWantsToBeAMillionaire{
     public static void main(String[] args) {
            String QUESTION_1_LEVEL_1 = "Care planetă este cea mai apropiată de Soare?";
         String QUESTION_1_ANSWER_1 = "Mercur";
