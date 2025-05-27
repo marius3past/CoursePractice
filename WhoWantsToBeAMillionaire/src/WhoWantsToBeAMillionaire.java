@@ -22,7 +22,7 @@ public class WhoWantsToBeAMillionaire {
     int QUESTION_3_MONEY = 500;
 
 
-    String QUESTION_4_LEVEL_3 = "În ce an a căzut Zidul Berlinului?";
+    String QUESTION_4_LEVEL_4 = "În ce an a căzut Zidul Berlinului?";
     String QUESTION_4_ANSWER_1 = "1985";
     String QUESTION_4_ANSWER_2 = "1989";
     String QUESTION_4_ANSWER_3 = "1991";
