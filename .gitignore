@@ -27,3 +27,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignoră setările de proiect IntelliJ/IDEA
+.idea/
+# Ignoră folderul principal cu proiecte (dacă nu vrei să fie urmărit)
+CoursePractice/
+# Ignoră documente individuale
+Individual Project.docx
